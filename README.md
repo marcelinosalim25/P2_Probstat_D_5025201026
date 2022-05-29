@@ -23,6 +23,7 @@ c. P-value bernilai lebih kecil dari alpha maka tolak H0 dan kesimpulan yang ben
 Soal 3
 
 a. H0 : Tidak ada perbedaan pada nilai rata-rata dari Bandung dan Bali
+
    H1 : Ada perbedaan pada nilai rata-rata dari Bandung dan Bali
    
 ![image](https://user-images.githubusercontent.com/90826711/170871020-6bbfef4b-46ee-4bbc-84e0-5ce89d8e3b53.png)
@@ -30,10 +31,15 @@ a. H0 : Tidak ada perbedaan pada nilai rata-rata dari Bandung dan Bali
 ![image](https://user-images.githubusercontent.com/90826711/170871153-7d2c9603-ce60-4920-80ec-420844656a6c.png)
 
 b. thitung Bandung = 9.5008
+
    df Bandung = 18
+   
    p-value Bandung = 1.952e-08  
+   
    thitung Bali = 10.983
+   
    df Bali = 26
+   
    p-value Bali = 2.907e-11
 
 c.![image](https://user-images.githubusercontent.com/90826711/170871945-156821b0-1a9d-4e2b-9d15-d1a1aa58c8cb.png)
@@ -41,10 +47,13 @@ c.![image](https://user-images.githubusercontent.com/90826711/170871945-156821b0
   ![image](https://user-images.githubusercontent.com/90826711/170871959-45dcf810-5a6d-4292-a703-3c03ddac5d5c.png)
 
 d. Nilai kritikal dengan alpha = 0.05
+
    Bandung = 2.10092
+   
    Bali = 2.05553
    
 e. Untuk Bandung didapatkan rata-ratanya berinterval antara 2.835086 hingga 4.444914
+
    Untuk Bali didapatkan rata-ratanya berinterval antara 2.267825 hingga 3.312175
    
 f. Dari uji hipotesis yang telah dilakukan, dapat disimpulkan bahwa H0 ditolak dan H1 diterima
