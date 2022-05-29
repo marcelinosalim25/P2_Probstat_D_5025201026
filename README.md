@@ -57,3 +57,11 @@ e. Untuk Bandung didapatkan rata-ratanya berinterval antara 2.835086 hingga 4.44
    Untuk Bali didapatkan rata-ratanya berinterval antara 2.267825 hingga 3.312175
    
 f. Dari uji hipotesis yang telah dilakukan, dapat disimpulkan bahwa H0 ditolak dan H1 diterima
+
+Soal 4
+
+a. ![image](https://user-images.githubusercontent.com/90826711/170873033-0f52804b-e49a-4f47-b9ed-7aff7b485f2a.png)
+
+   ![image](https://user-images.githubusercontent.com/90826711/170873067-529bb2c3-df68-4547-a2ec-dc53ab87022d.png)
+
+
